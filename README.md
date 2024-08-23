@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lucky044444
+- 👋 Hi, I’m lokesh
 - 👀 I’m interested in ... coding 
 - 🌱 I’m currently learning ...DSA USING JAVA
 - 💞️ I’m looking to collaborate on ...not at all right now
